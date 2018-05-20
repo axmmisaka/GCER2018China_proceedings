@@ -6,6 +6,12 @@ Two folders contain some materials in GCER Chinese National Qualifier's conferen
 
 Some sensitive data is censored. 
 
+## Contributing and questions
+
+No pull request is welcomed. Documents should be what they are.
+
+Create a issue for questions. **Do not ask me for Wechat, QQ or E-Mail.**
+
 ## License
 All materials, EXCLUDING those end with ".py", "*.sh" or ".c", are released under CC-BY-NC-ND 4.0 International license. 
 
